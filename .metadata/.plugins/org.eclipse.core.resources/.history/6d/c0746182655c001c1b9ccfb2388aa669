@@ -1,6 +1,0 @@
-package com.codingdojo.bookclub.services;
-
-@Service
-public class BookService {
-
-}

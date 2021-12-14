@@ -1,7 +1,0 @@
-INDEX VERSION 1.131
-/Users/RV-Code-User/Desktop/coding_dojo/WF2021/Java/Java_Spring/Full_Spring/BookClubJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2511924714.index
-/pokebook/src/main/java
-/Users/RV-Code-User/Desktop/coding_dojo/WF2021/Java/Java_Spring/Full_Spring/BookClubJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2945120705.index
-/bookclub/src/main/java
-/Users/RV-Code-User/Desktop/coding_dojo/WF2021/Java/Java_Spring/Full_Spring/BookClubJava/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1757447546.index
-/dojosninjas/src/main/java
