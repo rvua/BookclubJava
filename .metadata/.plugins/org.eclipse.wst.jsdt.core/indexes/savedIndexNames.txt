@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/RV-Code-User/Desktop/coding_dojo/WF2021/Java/Java_Spring/Full_Spring/BookClubJava/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2304518390.index
+3834389198.index
+1219566566.index
+3667648171.index
+1400256085.index
+1077055843.index
